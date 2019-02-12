@@ -271,7 +271,7 @@ section.tout {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
     background: #fff;
 }
 
@@ -463,7 +463,7 @@ footer .footer-below {
 }
 
 header img.profile-img {
-    max-width: 240px;
+    max-width: 280px;
     border-radius: 50%;
     border: 0.4em solid rgba(255, 255, 255, 0.75);
 }
